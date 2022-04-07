@@ -6,4 +6,6 @@
 
 The goal of hello_world_april is to ...
 
-practice making git and github repos via Rtudio!
+practice making Git and Fithub repos via Rtudio!
+
+Can I see this change
